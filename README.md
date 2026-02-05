@@ -135,6 +135,6 @@ Computer Science student passionate about **Artificial Intelligence** and **Mach
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=basmalaamamdouh&style=for-the-badge&color=FF6B9D&labelColor=0d1117&label=PROFILE+VIEWS)
+
 
 </div>
