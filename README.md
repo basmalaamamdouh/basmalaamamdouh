@@ -69,23 +69,7 @@ Computer Science student passionate about **Artificial Intelligence** and **Mach
 
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-## 🚀 Featured Projects
 
-### 🤖 Twitter Sentiment Analysis
-Machine learning model that classifies tweets as positive or negative using the Sentiment140 dataset
-- **Tech:** Python, Scikit-learn, Pandas, NLP
-- **Features:** Text preprocessing, sentiment classification, data visualization
-
-### 📊 Data Structure Visualizer
-Interactive Python tool for visualizing data structures and sorting algorithms
-- **Tech:** Python, Tkinter, Matplotlib
-- **Features:** Stack, Queue, Linked List visualization | Sorting animations (Bubble, Insertion, Selection)
-- **Impact:** Educational tool for CS students learning DSA
-
-### 🚗 Loop Ride - Ride Sharing App
-Flutter-based ride-hailing application with real-time tracking
-- **Tech:** Flutter, Firebase, Google Maps API
-- **Features:** Real-time location tracking, fare calculation, polyline routes
 
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
