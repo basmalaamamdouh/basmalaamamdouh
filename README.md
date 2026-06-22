@@ -15,7 +15,7 @@
 │                                                               │
 │   🎓 B.Sc. Computer Science @ Elshrouk Academy (2026)        │
 │   🤖 AI & ML Engineer | RAG & LLM Specialist                 │
-│   💻 Software Engineer | Flutter Developer                   │
+│   💻 Software Engineer                │
 │   🚀 DEPI - Digital Egypt Pioneers Initiative Graduate       │
 │                                                               │
 ╰───────────────────────────────────────────────────────────────╯
