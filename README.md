@@ -15,7 +15,7 @@
 │                                                               │
 │   🎓 B.Sc. Computer Science @ Elshrouk Academy (2026)        │
 │   🤖 AI & ML Engineer | RAG & LLM Specialist                 │
-│   💻 Software Engineer                │
+│   💻 Software Engineer | Flutter Developer                   │
 │   🚀 DEPI - Digital Egypt Pioneers Initiative Graduate       │
 │                                                               │
 ╰───────────────────────────────────────────────────────────────╯
@@ -25,10 +25,10 @@
 
 ## 🎯 About Me
 
-Computer Science graduate passionate about **Artificial Intelligence** and **Machine Learning**, with hands-on experience building intelligent systems, RAG pipelines, and LLM-powered applications. Specialized in **Generative AI**, **Agent Orchestration**, and **Arabic/English NLP**.
+Computer Science graduate passionate about **Artificial Intelligence** and **Machine Learning**, with hands-on experience building intelligent systems, RAG pipelines, and LLM-powered applications. Specialized in **Generative AI**, **Computer Vision**, **Agent Orchestration**, and **Arabic/English NLP**.
 
-- 🔭 Built a **hybrid RAG HR Assistant** with ChromaDB, BM25, RRF fusion, cross-encoder reranking & Groq LLaMA 3.3-70b — deployed via FastAPI
-- 🤖 Built **RAFIQ** — a multi-component AI platform featuring violence/harassment detection (TSM + ResNet-50), a bilingual tourism assistant (Gemini 1.5 Pro + Redis), and a Flutter mobile client
+- 🏆 Led & built **RAFIQ** — a full-stack AI Travel Safety & Tourism Platform (Graduation Project 2026): Computer Vision safety detection (TSM + ResNet-50, 97%+ accuracy), AI-powered tour guide evaluation (Whisper + Phi-3.5), bilingual tourism assistant (Gemini + Redis), real-time SOS & GPS tracking, Flutter mobile app, ASP.NET Core backend, and React ERP dashboard — all as **Team Leader & AI Engineer**
+- 🤖 Built a **hybrid RAG HR Assistant** with ChromaDB, BM25, RRF fusion, cross-encoder reranking & Groq LLaMA 3.3-70b, with a ReAct-style agentic Job Description Analyzer — deployed via FastAPI
 - 🧠 Focused on **LLM integration, Prompt Engineering, ReAct Agents, and RAG systems**
 - 🌍 Experienced in **bilingual Arabic/English NLP** systems
 - 💼 Open to **AI Engineer, ML Engineer** opportunities
@@ -88,17 +88,41 @@ Computer Science graduate passionate about **Artificial Intelligence** and **Mac
 
 ## 🚀 Featured Projects
 
-### 🤖 HR Assistant — Hybrid RAG System
-> FastAPI · ChromaDB · BM25 · RRF Fusion · Cross-Encoder Reranking · Groq LLaMA 3.3-70b · ReAct Agent
+---
 
-A production-grade hybrid RAG system combining dense and sparse retrieval with reciprocal rank fusion and cross-encoder reranking. Features an agentic Job Description Analyzer (Agent 1) built with Groq tool calling in a ReAct-style loop.
+### 🏆 RAFIQ — AI-Powered Travel Safety & Tourism Platform
+#### *Graduation Project 2026 | Team Leader & AI Engineer*
+
+> Flutter · ASP.NET Core · Python · PyTorch · OpenAI Whisper · Phi-3.5 · Gemini Vision · Redis · React · SignalR · Mapbox · SQL Server
+
+**RAFIQ** is a comprehensive Travel-Tech ecosystem connecting travelers, tour guides, and administrators through AI, Computer Vision, and Real-Time systems — making tourism safer, smarter, and more trustworthy.
+
+**🤖 AI Components:**
+
+| Component | Description | Tech |
+|---|---|---|
+| 🎥 Computer Vision Safety | Violence & harassment detection on in-car thermal video | ResNet-50 + TSM, 97%+ accuracy |
+| 🎙️ Guide Interview Evaluation | Automated AI evaluation of voice responses | Whisper STT + Phi-3.5-mini-instruct |
+| 🌍 Tourism Assistant | Bilingual Arabic/English travel chatbot with session memory | Gemini Vision + Redis |
+
+**📱 Platform Components:**
+- **Mobile App** (Flutter + BLoC) — Booking, Chat, SOS Emergency Button, Live GPS Tracking, Notifications
+- **Backend API** (ASP.NET Core + SignalR) — Auth, Bookings, Payments, Real-Time Communication
+- **AI Services** (Python + FastAPI) — CV Safety Detection, Guide Evaluation, OCR
+- **ERP Web Dashboard** (React + Tailwind) — Operations, Financial Management, Safety Monitoring, Analytics
+
+**🔑 Key Achievements:**
+- 97%+ validation accuracy on violence/harassment detection
+- Full end-to-end platform: mobile → backend → AI services → ERP dashboard
+- Real-time SOS with admin alert notifications and location sharing
+- AI-driven guide verification with automated scoring and reporting
 
 ---
 
-### 🛡️ RAFIQ — AI Safety & Tourism Platform *(Graduation Project)*
-> TSM + ResNet-50 · MMAction2 · Gemini 1.5 Pro · Redis · FastAPI · Flutter · Cloudflare Tunnel
+### 🤖 HR Assistant — Hybrid RAG System
+> FastAPI · ChromaDB · BM25 · RRF Fusion · Cross-Encoder Reranking · Groq LLaMA 3.3-70b · ReAct Agent
 
-Multi-component AI platform: violence/harassment detection classifier trained on thermal video data (~99% accuracy), a bilingual Arabic/English tourism assistant with session memory, and a Flutter mobile client. Served as **Team Leader & AI Engineer**.
+A production-grade hybrid RAG system combining dense and sparse retrieval with reciprocal rank fusion and cross-encoder reranking. Features an agentic **Job Description Analyzer** built with Groq tool calling in a ReAct-style loop, deployed via FastAPI.
 
 ---
 
@@ -112,7 +136,7 @@ A RAG-based visual machine learning tutor providing interactive explanations pow
 ### 🧪 Holographic Chemistry Lab *(In Progress)*
 > Python · OpenCV · MediaPipe
 
-AI-powered holographic chemistry lab using hand gesture interaction via computer vision, built with a Python-first approach emphasizing AI/CV engineering.
+AI-powered holographic chemistry lab using hand gesture interaction via computer vision.
 
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
