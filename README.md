@@ -15,7 +15,7 @@
 │                                                               │
 │   🎓 B.Sc. Computer Science @ Elshrouk Academy (2026)        │
 │   🤖 AI & ML Engineer | RAG & LLM Specialist                 │
-│   💻 Software Engineer             │
+│   💻 Software Engineer  
 │   🚀 DEPI - Digital Egypt Pioneers Initiative Graduate       │
 │                                                               │
 ╰───────────────────────────────────────────────────────────────╯
@@ -27,8 +27,8 @@
 
 Computer Science graduate passionate about **Artificial Intelligence** and **Machine Learning**, with hands-on experience building intelligent systems, RAG pipelines, and LLM-powered applications. Specialized in **Generative AI**, **Computer Vision**, **Agent Orchestration**, and **Arabic/English NLP**.
 
-- 🏆 Led & built **RAFIQ** — a full-stack AI Travel Safety & Tourism Platform (Graduation Project 2026): Computer Vision safety detection (TSM + ResNet-50, 97%+ accuracy), AI-powered tour guide evaluation (Whisper + Phi-3.5), bilingual tourism assistant (Gemini + Redis), real-time SOS & GPS tracking, Flutter mobile app, ASP.NET Core backend, and React ERP dashboard — all as **Team Leader & AI Engineer**
-- 🤖 Built a **hybrid RAG HR Assistant** with ChromaDB, BM25, RRF fusion, cross-encoder reranking & Groq LLaMA 3.3-70b, with a ReAct-style agentic Job Description Analyzer — deployed via FastAPI
+-  Led & built **RAFIQ** — a full-stack AI Travel Safety & Tourism Platform (Graduation Project 2026): Computer Vision safety detection (TSM + ResNet-50, 97%+ accuracy), AI-powered tour guide evaluation (Whisper + Phi-3.5), bilingual tourism assistant (Gemini + Redis), real-time SOS & GPS tracking, Flutter mobile app, ASP.NET Core backend, and React ERP dashboard — all as **Team Leader & AI Engineer**
+-  Built a **hybrid RAG HR Assistant** with ChromaDB, BM25, RRF fusion, cross-encoder reranking & Groq LLaMA 3.3-70b, with a ReAct-style agentic Job Description Analyzer — deployed via FastAPI
 - 🧠 Focused on **LLM integration, Prompt Engineering, ReAct Agents, and RAG systems**
 - 🌍 Experienced in **bilingual Arabic/English NLP** systems
 - 💼 Open to **AI Engineer, ML Engineer** opportunities
@@ -90,7 +90,7 @@ Computer Science graduate passionate about **Artificial Intelligence** and **Mac
 
 ---
 
-### 🏆 RAFIQ — AI-Powered Travel Safety & Tourism Platform
+###  RAFIQ — AI-Powered Travel Safety & Tourism Platform
 #### *Graduation Project 2026 | Team Leader & AI Engineer*
 
 > Flutter · ASP.NET Core · Python · PyTorch · OpenAI Whisper · Phi-3.5 · Gemini Vision · Redis · React · SignalR · Mapbox · SQL Server
